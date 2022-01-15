@@ -1,4 +1,4 @@
-# Jinjoo_Ascii
+# PlusCycle
 
 🙂더하기 사이클 문제 <br>
 🙂https://www.acmicpc.net/problem/1110 <br>
